@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dada1302
+- 👀 I’m interested in Beer
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like Beer
